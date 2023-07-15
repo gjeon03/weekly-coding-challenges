@@ -7,7 +7,7 @@
 3. 자릿수 더하기
    https://school.programmers.co.kr/learn/courses/30/lessons/12931?language=java
 
-4. 평균 구하기2
+4. 평균 구하기
    https://school.programmers.co.kr/learn/courses/30/lessons/12944?language=java
 
 5. 나머지가 1이 되는 수 찾기
